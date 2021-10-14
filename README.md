@@ -1,3 +1,26 @@
+# Begin my personal edits to README file
+
+## CFPB Applicant ID AVZER-FHY3
+
+Completed [Homework assignment](https://homework.adhoc.team/fetch/):
+
+Per the assignment:
+
+- Used fetch() to consume the API
+- Used URIjs to build the URL
+- Edited only a single file `api/managed.records.js`
+- All tests pass
+
+## Instructions:
+
+- Clone this repo
+- Change to this repo directory on your local machine
+- Run `yarn install`
+- Run `yarn test`
+
+# End my personal edits to README file
+
+
 # Fetch
 
 At Ad Hoc, our front-end applications often exchange JSON data with various RESTful APIs. We use modern JavaScript
